@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on [Journeys](https://www.myjourneys.ch/home)
+
 
 I've completed various projects in the course of the past few years, a lot where school assignments, but there are a few I am proud of having participated
 
